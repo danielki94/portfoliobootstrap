@@ -1,0 +1,39 @@
+
+
+body {
+    background-color: #333A40;
+}
+
+.heading {
+    color: #333A40;
+}
+
+
+#about-section h3 {
+    padding: 20px 0px;
+}
+
+#skill-section h3 {
+    padding: 20px 0;
+}
+
+#home-section p {
+    padding: 20px 0;
+}
+
+
+.content-spacing {
+    margin-bottom: 0;
+    background-color: #E9ECEF;
+}
+
+
+.jumbotron {
+    padding: 2rem 2em;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
